@@ -123,6 +123,8 @@ Alterna turnos después de cada jugada válida
 
 ## Estructura Final del Proyecto
 
+**![img_11.png](img_11.png)**
+
 
 
 
